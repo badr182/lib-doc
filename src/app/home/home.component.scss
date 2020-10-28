@@ -1,0 +1,23 @@
+$color-nav: #0596de;
+.bg-company-red {
+    background-color: $color-nav !important;
+}
+
+
+/* image background  */
+
+.home-page-search-background {
+    padding-top: 40px;
+}
+
+.home-page-search-background #background-doc {
+    height: 100%;
+    width: 590px;
+    background-color: red;
+}
+
+.home-page-search-background #background-points {
+    height: 100%;
+    width: 700px;
+    background-color: black;
+}
